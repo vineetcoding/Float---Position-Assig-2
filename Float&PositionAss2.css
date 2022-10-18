@@ -1,0 +1,199 @@
+body{
+    background-color: antiquewhite;
+}
+
+.topbarstick{
+    /* border: 1px solid; */
+    display: flex;
+    height: 60px;
+    background-color: rgb(211, 102, 102);
+    color: white;
+    position: sticky;
+    top: 0%;
+}
+.topright{
+    margin-left: 10%;
+}
+#home{
+    margin-left: 50%;
+}
+.topleft{
+    padding: 1%;
+}
+.course{
+    text-align: center;
+    margin-top: -1.6%;
+    height: 200px;
+    background-color: rgb(211, 102, 102);
+    color: white;
+}
+.red-heading{
+    width: 56%;
+    margin-left: 16%;
+    display: flex;
+    margin-top: 5%;
+    color: rgb(211, 102, 102);
+    padding: 8%;
+    padding-bottom: initial;
+    padding-top: initial;
+}
+.red-heading div{
+    width: 35%;
+    
+}
+.mid-blacktext{
+    width: 60%;
+    margin-left: 22%;
+    display: flex;
+    
+}
+.mid-blacktext div{
+    padding: 2%;
+    
+}
+.midButton{
+    background-color: rgb(211, 102, 102);
+    border: rgb(211, 102, 102);
+    color: white;
+}
+#midButton1{
+    margin-left: 24%;
+}
+#midButton2{
+    margin-left: 16%;
+}
+#midButton3{
+    margin-left: 17%;
+}
+
+.bigdiv2{
+    /* border: 1px solid; */
+    height: 25em;
+    width: 100%;
+    /* text-align: center; */
+    background-color: rgb(226, 105, 105);
+    /* color: white; */
+    margin-top: 5%;
+    display: inline-block;
+}
+.bigdivheading{
+    text-align: center;
+    color: white;
+    /* margin-top: ; */
+}
+.bigdivtext1{
+    margin-top: -1.25%;
+}
+.picdiv1{
+    text-align: center;
+    border: 1px solid rgb(161, 160, 156);
+    margin-right: 3%;
+    width: 14%;
+    height: 65%;
+    margin-top: 1%;
+    float: right;
+    box-shadow: 1px 1px rgb(161, 160, 156);
+}
+.picdiv2{
+    text-align: center;
+    border: 1px solid rgb(161, 160, 156);
+    margin-right: 3%;
+    width: 14%;
+    height: 65%;
+    margin-top: 1%;
+    float: right;
+    box-shadow: 1px 1px rgb(161, 160, 156);
+}
+.picdiv3{
+    text-align: center;
+    border: 1px solid rgb(161, 160, 156);
+    margin-right: 3%;
+    width: 14%;
+    height: 65%;
+    margin-top: 1%;
+    float: right;
+    box-shadow: 1px 1px rgb(161, 160, 156);
+}
+.picdiv4{
+    text-align: center;
+    border: 1px solid rgb(161, 160, 156);
+    margin-right: 17%;
+    width: 14%;
+    height: 65%;
+    margin-top: 1%;
+    float: right;
+    box-shadow: 1px 1px rgb(161, 160, 156);
+}
+.lastheading{
+    text-align: center;
+    color:  rgb(226, 105, 105);
+}
+.bottomtext1{
+    width: 30%;
+}
+.bottomtext2{
+    width: 50%;
+}
+.bottomimg1{
+    /* float: right; */
+    margin-left: 25%;
+    margin-top: 7%;
+}
+.bottomimg2{
+    /* float: right; */
+    margin-left: 55%;
+    margin-top: -23.5%;
+}
+.boyimg{
+    height: 1.8in;
+    width: 1.7in;
+    border-radius: 50%;
+}
+text{
+    color: white;
+}
+.smalltext{
+    margin-top: -12%;
+    color: white;
+}
+.aircampusimg{
+    width: 1in;
+    margin-left: 50%;
+    margin-top: -5%;
+}
+.color-div2 img{
+    width: 70%;
+    border-radius: 50%;
+}
+#midButton4 {
+    margin-left: 25%;
+}
+#midButton5{
+    margin-left: 26.5%;
+    margin-top: 1%;
+    margin-bottom: 10%;
+}
+.footer{
+    margin-bottom: 3%;
+    border: 1px solid gray;
+    background-color: gray;
+    height: 1px;
+}
+.footer h6{
+    color: rgb(189, 189, 189);
+    margin-left: 10%;
+}
+.icon{
+    position: fixed;
+    right: 60px;
+    bottom: 40px;
+}
+.social{
+    color:  rgb(226, 105, 105);
+    float: right;
+    margin-top: -3.5%;
+    margin-right: 5%;
+}
+.social i{
+    padding: 10px;
+}
